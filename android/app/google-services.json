@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417304075128",
+    "firebase_url": "https://coffeehubapp-48994.firebaseio.com",
+    "project_id": "coffeehubapp-48994",
+    "storage_bucket": "coffeehubapp-48994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417304075128:android:1b8b8b33de3ac5b9fbc68d",
+        "android_client_info": {
+          "package_name": "com.example.coffee_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417304075128-fc9ljs1e2fopr91166pegivenk36kvhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcnwVLbp6cO5h3awVPuVu1_CTu4dd5TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417304075128-fc9ljs1e2fopr91166pegivenk36kvhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
